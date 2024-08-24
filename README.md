@@ -10,9 +10,12 @@
 
 
 	
-## <picture><img src = "" width = 50px></picture> **About me**
+## <picture>></picture> **About me**
 
-<picture> <img align="right" src="" width = 250px></picture>
+
+
+
+
 
 <br>
 
